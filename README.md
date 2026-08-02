@@ -1,6 +1,6 @@
 # churn-prediction-app
-**Name:** Meenu K S
-**MUID:** meenuks@mulearn
+## **Name:** Meenu K S
+## **MUID:** meenuks@mulearn
 
 ## Live Deployment
 https://churn-prediction-app-znjyevj47b2n5esyzmmab5.streamlit.app/
